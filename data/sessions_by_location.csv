@@ -1,0 +1,816 @@
+location_region,total_sessions
+California,10421
+New York,5274
+,3975
+Texas,3637
+Florida,3240
+England,2223
+Illinois,1685
+Georgia,1258
+Buenos Aires,1234
+New Jersey,1181
+North Carolina,1083
+Ontario,1011
+New South Wales,974
+Massachusetts,884
+Virginia,883
+Ohio,856
+Pennsylvania,852
+Washington,816
+Arizona,814
+Victoria,799
+Buenos Aires F.D.,748
+Iowa,673
+Maryland,657
+District of Columbia,545
+Utah,526
+Oregon,508
+Mexico City,449
+Tennessee,433
+Colorado,425
+Connecticut,404
+Nevada,399
+Île-de-France,388
+Quebec,387
+Queensland,382
+Michigan,355
+Minnesota,336
+Cordoba,305
+North Holland,272
+British Columbia,262
+South Carolina,258
+Indiana,258
+Maharashtra,254
+Missouri,247
+Western Australia,245
+Auckland,239
+Sao Paulo,234
+Madrid,232
+Louisiana,224
+Oklahoma,220
+Wisconsin,216
+Capital Region,191
+Jalisco,182
+Riyadh Region,182
+North Rhine-Westphalia,176
+Scotland,174
+Alberta,170
+Rhode Island,166
+Leinster,164
+Catalonia,161
+Nuevo León,160
+Oslo County,159
+Lombardy,159
+Metro Manila,150
+Puebla,146
+Tucuman,146
+Rio de Janeiro,143
+Land Berlin,141
+Bavaria,140
+Hawaii,136
+Santa Fe,135
+Yucatán,133
+Zurich,131
+National Capital Territory of Delhi,128
+Brussels Capital,123
+Alabama,122
+Kuala Lumpur,120
+Lima,119
+Dubai,118
+Baden-Wurttemberg,118
+Free and Hanseatic City of Hamburg,117
+Baja California,116
+South Holland,110
+Corrientes,110
+Santiago Metropolitan,104
+Nebraska,101
+Kansas,100
+South Australia,99
+Kerala,98
+Mendoza,98
+New Mexico,96
+New Hampshire,96
+Cairo Governorate,93
+Gujarat,91
+Valencia,90
+Querétaro,89
+Tel Aviv,89
+Mecca Region,88
+Bangkok,86
+Stockholm County,84
+Kentucky,83
+Moscow,83
+Gauteng,83
+Lisbon,82
+Vienna,81
+Selangor,80
+Hesse,80
+Flanders,80
+Uusimaa,78
+Karnataka,78
+Campania,76
+Andalusia,75
+Central and Western District,74
+Auvergne-Rhone-Alpes,73
+Chaco,71
+Delaware,70
+Jakarta,69
+Wellington,67
+Western Cape,67
+Lazio,67
+Provence-Alpes-Côte d'Azur,65
+México,65
+Guanajuato,60
+Attica,58
+Istanbul,58
+Arkansas,57
+Emilia-Romagna,57
+Salta,56
+Australian Capital Territory,56
+Vermont,55
+Occitanie,54
+Minas Gerais,54
+Seoul,53
+Tuscany,52
+Misiones,51
+Maine,51
+Wales,50
+Västra Götaland County,49
+Tamil Nadu,49
+Sinaloa,49
+Provincia de San Jose,47
+Entre Rios,47
+Hanoi,47
+Tokyo,45
+Guatemala,45
+Geneva,44
+Ho Chi Minh,43
+Provincia de Panama,42
+Nouvelle-Aquitaine,41
+Sonora,41
+West Bengal,41
+Canterbury,41
+Telangana,40
+Bourgogne-Franche-Comte,39
+Eastern Province,39
+Utrecht,39
+Bogota D.C.,39
+Montevideo Department,38
+Central Jutland,38
+Veneto,38
+Hauts-de-France,37
+Galicia,37
+Porto,36
+Departamento de San Salvador,36
+Madhya Pradesh,35
+Northern Ireland,35
+Rheinland-Pfalz,35
+Ceara,35
+Vaud,35
+Pays de la Loire,34
+Bahia,34
+Balearic Islands,34
+Mississippi,34
+West Java,33
+Parana,32
+Manitoba,32
+The Marches,31
+Region de Valparaiso,31
+Chiapas,31
+Idaho,31
+Baladiyat ad Dawhah,31
+Lower Saxony,31
+Shanghai,31
+Skåne County,31
+Sicily,30
+Veracruz,30
+Wallonia,29
+Pernambuco,29
+Calabarzon,28
+East Java,28
+Rio Negro,28
+Abu Dhabi,28
+Neuquen,27
+Lagos,27
+Provincia del Guayas,27
+Apulia,27
+Punjab,27
+Taipei City,26
+Rio Grande do Sul,26
+Santiago del Estero,26
+Provincia de Santiago,25
+Cartago Province,25
+Mazovia,25
+Provincia de Santo Domingo,25
+Viken,24
+Uttar Pradesh,24
+Grand Est,24
+Wyoming,24
+Aargau,24
+Assam,23
+Piedmont,23
+Antioquia,23
+Catamarca,23
+Abruzzo,23
+Federal District,23
+Nova Scotia,23
+West Virginia,22
+San Juan,22
+Chihuahua,22
+Atlántico,22
+Goias,22
+Coahuila,22
+New Taipei,22
+Saint Michael,21
+San Luis,21
+Saxony,21
+Casablanca-Settat,21
+Otago,21
+Zealand,21
+Canary Islands,20
+Al Asimah,20
+Central District,20
+Quintana Roo,20
+K'alak'i T'bilisi,19
+Nairobi,19
+Vilnius,19
+Parish of Saint George,19
+North Denmark,18
+Brasov,18
+Haryana,18
+Brittany,18
+Alexandria,18
+Gelderland,18
+Basque Country,17
+North Brabant,17
+Setúbal,17
+City of Zagreb,17
+Murcia,17
+Castille and León,17
+Central Macedonia,17
+Jujuy,17
+Gyeonggi-do,17
+Taichung City,16
+Budapest,16
+Bay of Plenty,16
+Rajasthan,16
+Bali,16
+Luxembourg,16
+Port Louis District,15
+Central Luzon,15
+Santa Catarina,15
+Baja California Sur,15
+Giza,15
+Schleswig-Holstein,15
+Chubut,15
+Bucuresti,15
+Lesser Poland,15
+Corsica,15
+La Pampa,15
+Formosa,15
+Valais,15
+Francisco Morazán Department,14
+Ulaanbaatar Hot,14
+Nacional,14
+Provincia de Pichincha,14
+Phnom Penh,14
+Sardinia,14
+Waikato,14
+South Denmark,14
+Lower Silesia,13
+Alaska,13
+Principality of Asturias,13
+Saarland,13
+Espirito Santo,13
+Castille-La Mancha,13
+Para,13
+Davao,13
+Sharjah,13
+Silesia,13
+Brunei-Muara District,13
+Alajuela Province,13
+Tirana,12
+Beijing,12
+Jönköping,12
+Aragon,12
+Distrito Federal,12
+Muscat,12
+Bern,11
+Uttarakhand,11
+Bremen,11
+Friesland,11
+Banten,11
+Santa Cruz Department,11
+Perak,11
+KwaZulu-Natal,11
+Santa Cruz,11
+Maranhao,11
+Greater Poland,11
+Cortés Department,11
+Hlavni mesto Praha,10
+Munster,10
+Hamilton city,10
+Västerbotten County,10
+FCT,10
+Pomerania,10
+Faro,10
+Sindh,10
+Harjumaa,10
+Western Province,10
+Liguria,10
+La Rioja,10
+Departamento de Bolivar,10
+Nicosia,10
+Arequipa,10
+Montana,9
+Saitama,9
+Sarawak,9
+Dakar,9
+Bratislava,9
+Plaines Wilhems District,9
+Saint Gallen,9
+Tasmania,9
+Manama,9
+Asuncion,9
+Tabasco,9
+Ticino,9
+Region del Biobio,9
+Umbria,9
+Penang,9
+Normandy,9
+Łódź Voivodeship,9
+Greater Accra Region,8
+Overijssel,8
+Vestland,8
+Tamaulipas,8
+Izmir,8
+Ōsaka,8
+Jerusalem,8
+Aichi,8
+Da Nang,8
+Lucerne,8
+Eastern,8
+Thuringia,8
+Algiers,8
+Departamento de Santa Ana,8
+Departamento del Valle del Cauca,8
+Departamento de Santander,8
+Odisha,8
+Fribourg,8
+Port of Spain,8
+Oaxaca,7
+Borsod-Abaúj-Zemplén,7
+Kaafu Atoll,7
+Limassol District,7
+Johor,7
+Central Visayas,7
+Imarat Ra's al Khaymah,7
+Sabah,7
+Vestfold og Telemark,7
+Miyagi,7
+Calabria,7
+Busan,7
+Kingston,7
+New Providence District,7
+Amazonas,7
+Trentino-Alto Adige,7
+Heredia Province,7
+Riga,7
+Marrakesh-Safi,6
+Central Java,6
+Chandigarh,6
+Brandenburg,6
+Belgrade,6
+Kyiv City,6
+Podgorica,6
+Split-Dalmatia,6
+Rio Grande do Norte,6
+Cluj,6
+Crete,6
+Limburg,6
+Mecklenburg-Vorpommern,6
+Dar es Salaam Region,6
+Incheon,6
+Dhaka Division,6
+Sofia-Capital,6
+Shiga,6
+Provincia de La Vega,6
+Kaunas,6
+Saskatchewan,6
+Upper Austria,6
+Southern District,5
+La Libertad,5
+Zulia,5
+Solothurn,5
+Phuket,5
+Mestna Obcina Novo mesto,5
+Centre-Val de Loire,5
+Ankara,5
+Basel-City,5
+Flevoland,5
+Paraíba,5
+Kowloon City,5
+Rondonia,5
+Souss-Massa,5
+Sha Tin,5
+Morelos,5
+Departamento del Alto Parana,5
+Bihar,5
+South Aegean,5
+Departamento de La Libertad,5
+Basel-Landschaft,5
+Guangdong,5
+Male,5
+San Luis Potosí,5
+Alytus,5
+Surat Thani,5
+North Sumatra,5
+Saint Thomas Island,5
+Mato Grosso do Sul,4
+Northern District,4
+Yuen Long District,4
+Newfoundland and Labrador,4
+Groningen,4
+Managua Department,4
+Hyōgo,4
+Salzburg,4
+Leiria,4
+Cusco,4
+Dakahlia,4
+Ajman,4
+Islamabad,4
+Southern Peninsula,4
+Rabat-Sale-Kenitra,4
+Hidalgo,4
+Tinh Binh Phuoc,4
+South Dakota,4
+Sergipe,4
+Tyrol,4
+Prahova,4
+Gaborone,4
+Yogyakarta,4
+Amman Governorate,4
+Provincia del Azuay,4
+Andhra Pradesh,4
+North Ostrobothnia,4
+South Sulawesi,4
+Zug,4
+Chaguanas,4
+Bagmati Province,4
+La Paz Department,4
+Tanger-Tetouan-Al Hoceima,4
+Manawatu-Wanganui,4
+Vila Real,3
+Ismailia Governorate,3
+Mombasa,3
+Nordland,3
+Antalya,3
+Riau,3
+Red Sea,3
+Kalmykiya Republic,3
+Samut Prakan,3
+Maldonado,3
+Chiriquí Province,3
+Kronoberg County,3
+Alagoas,3
+Lubusz,3
+Taoyuan,3
+Troms og Finnmark,3
+Erbil,3
+Chiba,3
+Aguascalientes,3
+Aveiro,3
+Departamento de Cochabamba,3
+Provincia de Manabi,3
+Azores,3
+Saint James,3
+Daegu,3
+Larnaka,3
+Nayarit,3
+Ruse,3
+Yalova,3
+Goa,3
+Christ Church,3
+Miyazaki,3
+Neuchâtel,3
+Appenzell Innerrhoden,3
+Al-Shahaniya,3
+Győr-Moson-Sopron,3
+South Karelia Region,3
+Ancash,3
+Styria,3
+New Brunswick,3
+Provincia de Veraguas,3
+Northland,3
+West Greece,3
+Zilina,3
+Puntarenas Province,3
+Piaui,3
+Cidade de Maputo,3
+Lower Austria,3
+Nablus,3
+Grand Port District,3
+Cantabria,3
+Saint Paul Charlestown,3
+Tuen Mun,3
+Istria,2
+Nakhon Pathom,2
+Eastern District,2
+Mato Grosso,2
+Homyel’ Voblasc’,2
+Kamnik,2
+South Sumatra,2
+Omsk Oblast,2
+Tunapuna/Piarco,2
+Departamento del Magdalena,2
+Manipur,2
+East Kalimantan,2
+Halland County,2
+Antofagasta,2
+Navarre,2
+Vorarlberg,2
+Canelones,2
+Braga,2
+Coquimbo Region,2
+Northern Territory,2
+Östergötland County,2
+Leningrad Oblast,2
+Baku City,2
+Thurgau,2
+Gorod Bishkek,2
+Chongqing,2
+Ammochostos,2
+Trøndelag,2
+Adana,2
+Campeche,2
+Chungcheongnam-do,2
+Provincia del Chimborazo,2
+Nonthaburi,2
+Birkirkara,2
+Los Ríos Region,2
+Gaziantep,2
+Khyber Pakhtunkhwa,2
+Gouvernorat de Zaghouan,2
+Thimphu District,2
+Opole Voivodeship,2
+Nidwalden,2
+Chhattisgarh,2
+Northern Mindanao,2
+Draa-Tafilalet,2
+Zeeland,2
+Yunlin,2
+Almaty,2
+Gharbia,2
+Muğla,2
+Ilfov,2
+Federation of B&H,2
+Al-Qassim Region,2
+Michoacán,2
+Pest megye,2
+Mpumalanga,2
+Pirkanmaa,2
+Zadar,2
+Pembroke Parish,2
+Chișinău Municipality,2
+Manchester,2
+North Dakota,2
+Junin,2
+Achara,2
+Nagaland,2
+Qena,2
+Peloponnese,2
+Baghdad,2
+Møre og Romsdal,2
+Sofia,2
+Okinawa,2
+Portuguesa,2
+Hhohho,2
+Connacht,2
+Kaohsiung,2
+Kyoto,2
+Western Visayas,2
+Lublin,2
+Colima,2
+Santarém,2
+Chon Buri,2
+Hsinchu County,2
+Extremadura,2
+Medina Region,2
+Khomas,2
+Departamento Central,2
+Uppsala County,2
+Gwangju,2
+Lampung,2
+L-Imsida,2
+O'Higgins Region,2
+Ulsan,2
+Melaka,2
+Västmanland County,2
+Mohafazat Mont-Liban,2
+Eastern Cape,2
+Tocantins,1
+Nakhon Si Thammarat,1
+Oyo State,1
+Chiang Mai,1
+Jiangsu,1
+Zarqa,1
+Changhua,1
+Provincia Duarte,1
+Noord-Holland,1
+Kraj Vysocina,1
+Sohag,1
+Tinh GJong Nai,1
+Southern Governorate,1
+Gifu,1
+Appenzell Ausserrhoden,1
+Haifa,1
+Ionian Islands,1
+Ulster,1
+Nelson,1
+Sabaragamuwa Province,1
+Valmiera,1
+Beyrouth,1
+Kralovehradecky kraj,1
+Ogun State,1
+Yoro Department,1
+Presov,1
+Departamento del Cesar,1
+Lima region,1
+Gasa,1
+Himachal Pradesh,1
+Krung Thep,1
+Masqat,1
+Shaanxi,1
+Cordillera,1
+Gävleborg County,1
+Bursa,1
+West Kalimantan,1
+Sulaymaniyah,1
+Distrikt Paramaribo,1
+Pahang,1
+Burgas,1
+Hebron,1
+Sichuan,1
+Agder,1
+Tarija Department,1
+Mohafazat Liban-Nord,1
+Chittagong,1
+Neamt,1
+Monufia,1
+Al Khor,1
+Tinh Khanh Hoa,1
+St.-Petersburg,1
+Obcina Mezica,1
+Schwyz,1
+Tinh Bac Ninh,1
+Szabolcs-Szatmár-Bereg,1
+Drenthe,1
+Abidjan,1
+Fujian,1
+Birmingham,1
+North Karelia,1
+West Kazakhstan,1
+Ile-de-France,1
+Ljubljana,1
+Korçë County,1
+Haiphong,1
+Volyn,1
+Bar,1
+Haute-Normandie,1
+South Moravian,1
+Chiayi County,1
+Värmland County,1
+Kakheti,1
+Manzini,1
+Flacq District,1
+Southern,1
+Tainan,1
+Ordu,1
+Ibaraki,1
+Rogaland,1
+Saint George,1
+Rivers State,1
+Hokkaido,1
+Nova Gorica,1
+Provincia del Tungurahua,1
+Carinthia,1
+San José Department,1
+Oran,1
+Province 1,1
+Astana,1
+Coimbra,1
+Region Metropolitana,1
+Tierra del Fuego,1
+Provincia de Loja,1
+Glarus,1
+Nara,1
+Tripoli,1
+Atacama,1
+Guanacaste Province,1
+North-West,1
+Dolj,1
+Epirus,1
+Aydın,1
+Straza,1
+Acre,1
+Siparia,1
+Tulcea,1
+Beheira,1
+Maseru,1
+Pleven,1
+Plovdiv,1
+Karlovac,1
+Central Equatoria,1
+Kalmar,1
+Banska Bystrica,1
+Jeju-do,1
+Guerrero,1
+Tashkent,1
+Central Finland,1
+Minsk City,1
+Ucayali,1
+Paysandú Department,1
+Cesu Novads,1
+Departamento de Cuscatlan,1
+South Kalimantan,1
+Mandalay Region,1
+Piemonte,1
+Friuli Venezia Giulia,1
+Sharqia,1
+Zacatecas,1
+Manisa,1
+Obwalden,1
+Şırnak,1
+Aceh,1
+Los Lagos Region,1
+Obcina Skocjan,1
+Klaipėda County,1
+Serravalle,1
+Chiayi,1
+Grosuplje,1
+Central Region,1
+Panama,1
+Tây Ninh Province,1
+Tinh Binh GJinh,1
+Nueva Esparta,1
+Parish of Saint John,1
+Il-Mosta,1
+Queretaro de Arteaga,1
+Paijat-Hame Region,1
+Nuevo Leon,1
+Bicol,1
+Terengganu,1
+Aswan,1
+Shkodër County,1
+Västernorrland County,1
+Tochigi,1
+Bashkortostan Republic,1
+Krasnodar Krai,1
+Lombardia,1
+Wolverhampton,1
+Hajdú-Bihar,1
+Jeollabuk-do,1
+Vukovar-Sirmium,1
+Jelgava,1
+Departamento del Huila,1
+Central Bohemia,1
+North West,1
+Kayseri,1
+Pafos,1
+Jharkhand,1
+Mazowieckie,1
+Nagano,1
+Saxony-Anhalt,1
+Muharraq,1
+Subcarpathia,1
+Oslo,1
+Kanagawa,1
+Diyarbakir,1
+Il-Gzira,1
+Mures,1
+Provincia de La Altagracia,1
+Isparta,1
+Paola,1
+Negeri Sembilan,1
+Hualien,1
+Gunma,1
+Durango,1
+Maule Region,1
+Lviv,1
+Chiang Rai,1
+Vojvodina,1
+Hawke's Bay,1
+Port Said,1
+Republika Srpska,1
+Kedah,1
+Primorsko-Goranska Zupanija,1
+Osjecko-Baranjska Zupanija,1
+Eskişehir,1
+Nakhon Ratchasima,1
+Departamento de Itapua,1
+Gouvernorat de Nabeul,1
+Woqooyi Galbeed,1
+Northern,1
+Viana do Castelo,1
+Ptuj,1
+Rizal,1

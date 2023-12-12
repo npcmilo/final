@@ -1,0 +1,818 @@
+location_region,total_conversion
+North Dakota,0.5
+Thimphu District,0.5
+Yuen Long District,0.25
+Prahova,0.25
+Dar es Salaam Region,0.16666
+Calabria,0.14285
+Imarat Ra's al Khaymah,0.14285
+Jerusalem,0.125
+Lucerne,0.125
+Tabasco,0.11111
+Montana,0.11111
+Bremen,0.0909
+Banten,0.0909
+Bern,0.0909
+Nova Scotia,0.08695
+Muscat,0.08333
+Lower Silesia,0.07692
+Alajuela Province,0.07692
+Valais,0.06666
+Luxembourg,0.0625
+Murcia,0.05882
+Central Macedonia,0.05882
+Brasov,0.05555
+Vermont,0.05454
+Vilnius,0.05263
+Montevideo Department,0.05263
+Parish of Saint George,0.05263
+Nouvelle-Aquitaine,0.04878
+Kentucky,0.04819
+New Taipei,0.04545
+Aargau,0.04166
+Auvergne-Rhone-Alpes,0.04109
+Kansas,0.04
+Cartago Province,0.04
+Taipei City,0.03846
+Calabarzon,0.03571
+Veracruz,0.03333
+Washington,0.03308
+Ohio,0.03267
+Idaho,0.03225
+Oklahoma,0.03181
+New Mexico,0.03125
+South Carolina,0.031
+Colorado,0.03058
+Wellington,0.02985
+Connecticut,0.0297
+Hawaii,0.02941
+Queensland,0.02879
+Western Australia,0.02857
+Utah,0.02851
+Missouri,0.02834
+New York,0.02824
+Departamento de San Salvador,0.02777
+Nevada,0.02756
+California,0.02752
+District of Columbia,0.02747
+Florida,0.02746
+Massachusetts,0.02714
+Minnesota,0.02678
+British Columbia,0.02671
+Maryland,0.02583
+Uusimaa,0.02564
+Bourgogne-Franche-Comte,0.02564
+Dubai,0.02542
+Georgia,0.02462
+Alabama,0.02459
+Arizona,0.02457
+Sonora,0.02439
+Brussels Capital,0.02439
+Stockholm County,0.0238
+Wisconsin,0.02314
+Illinois,0.02313
+Scotland,0.02298
+New Jersey,0.02284
+Texas,0.02282
+Geneva,0.02272
+Mecca Region,0.02272
+Louisiana,0.02232
+Guatemala,0.02222
+North Carolina,0.02216
+Oregon,0.02165
+Bavaria,0.02142
+Auckland,0.02092
+Västra Götaland County,0.0204
+Wales,0.02
+Nebraska,0.0198
+Tuscany,0.01923
+Ontario,0.01877
+Pennsylvania,0.01877
+New South Wales,0.01848
+North Holland,0.01838
+Quebec,0.01808
+Île-de-France,0.01804
+Australian Capital Territory,0.01785
+Arkansas,0.01754
+Istanbul,0.01724
+Sao Paulo,0.01709
+North Rhine-Westphalia,0.01704
+Baden-Wurttemberg,0.01694
+Victoria,0.01627
+México,0.01538
+Provence-Alpes-Côte d'Azur,0.01538
+Indiana,0.01538
+Zurich,0.01526
+Virginia,0.0147
+Jakarta,0.01449
+Michigan,0.01408
+,0.01357
+Central and Western District,0.01351
+England,0.01349
+Metro Manila,0.01333
+Madrid,0.01293
+Lombardy,0.01257
+Vienna,0.01234
+Leinster,0.01219
+Gauteng,0.01204
+Rhode Island,0.01204
+Alberta,0.01176
+Tennessee,0.01154
+Tel Aviv,0.01123
+Mexico City,0.01113
+Valencia,0.01111
+Riyadh Region,0.01098
+Jalisco,0.01098
+New Hampshire,0.01041
+South Australia,0.0101
+South Holland,0.00909
+Free and Hanseatic City of Hamburg,0.00854
+Tucuman,0.00684
+Oslo County,0.00628
+Capital Region,0.00523
+Iowa,0.00297
+Buenos Aires F.D.,0.00267
+Buenos Aires,0.00243
+Styria,0
+Limburg,0
+Leningrad Oblast,0
+Munster,0
+Alexandria,0
+Provincia de Santiago,0
+Abu Dhabi,0
+Lima region,0
+Panama,0
+Provincia del Azuay,0
+Hebron,0
+Vojvodina,0
+Northland,0
+Balearic Islands,0
+Pirkanmaa,0
+Connacht,0
+Uttarakhand,0
+Central Bohemia,0
+Haiphong,0
+Porto,0
+Departamento del Cesar,0
+Bahia,0
+Baladiyat ad Dawhah,0
+Kyiv City,0
+Nordland,0
+Plaines Wilhems District,0
+Trøndelag,0
+Halland County,0
+Kaunas,0
+Sabaragamuwa Province,0
+Grand Port District,0
+O'Higgins Region,0
+Santarém,0
+Aveiro,0
+Presov,0
+La Paz Department,0
+Haute-Normandie,0
+Chittagong,0
+Port Louis District,0
+Rondonia,0
+Mato Grosso do Sul,0
+Kraj Vysocina,0
+Vukovar-Sirmium,0
+Michoacán,0
+Central Equatoria,0
+Baghdad,0
+Ilfov,0
+Hsinchu County,0
+Peloponnese,0
+Chiriquí Province,0
+North Denmark,0
+Lagos,0
+Borsod-Abaúj-Zemplén,0
+Ile-de-France,0
+Antofagasta,0
+Jeollabuk-do,0
+Hamilton city,0
+Chiapas,0
+North West,0
+Lombardia,0
+Chișinău Municipality,0
+Gaborone,0
+Bagmati Province,0
+Colima,0
+Vila Real,0
+Gorod Bishkek,0
+Mohafazat Liban-Nord,0
+Zilina,0
+South Moravian,0
+Casablanca-Settat,0
+Bicol,0
+Western Cape,0
+Eastern,0
+Brandenburg,0
+Christ Church,0
+Glarus,0
+Silesia,0
+Odisha,0
+Neuchâtel,0
+Francisco Morazán Department,0
+Nara,0
+Eskişehir,0
+Western Visayas,0
+Kalmykiya Republic,0
+Nakhon Si Thammarat,0
+Karnataka,0
+Obcina Skocjan,0
+KwaZulu-Natal,0
+Valmiera,0
+Abruzzo,0
+Sicily,0
+Nicosia,0
+Maranhao,0
+Parana,0
+Podgorica,0
+Rivers State,0
+Tochigi,0
+Kalmar,0
+Emilia-Romagna,0
+Rio Grande do Sul,0
+Los Lagos Region,0
+Provincia de La Altagracia,0
+Central Java,0
+Omsk Oblast,0
+Ibaraki,0
+Västernorrland County,0
+Utrecht,0
+Achara,0
+Coahuila,0
+Chaco,0
+Pays de la Loire,0
+Santa Cruz Department,0
+Marrakesh-Safi,0
+Cortés Department,0
+Baja California,0
+Sindh,0
+Nakhon Pathom,0
+Zacatecas,0
+Distrito Federal,0
+Ulster,0
+Maine,0
+Lublin,0
+Krung Thep,0
+Schleswig-Holstein,0
+Tyrol,0
+Arequipa,0
+Nayarit,0
+Minsk City,0
+San José Department,0
+Souss-Massa,0
+Isparta,0
+Setúbal,0
+Ammochostos,0
+Dolj,0
+Łódź Voivodeship,0
+Oyo State,0
+Bayern,0
+Antioquia,0
+Piemonte,0
+Brittany,0
+Negeri Sembilan,0
+Saxony-Anhalt,0
+Hidalgo,0
+Attica,0
+Northern Ireland,0
+Chungcheongnam-do,0
+Provincia de Veraguas,0
+Mecklenburg-Vorpommern,0
+The Marches,0
+South Kalimantan,0
+Sulaymaniyah,0
+Taichung City,0
+Normandy,0
+Bashkortostan Republic,0
+Hlavni mesto Praha,0
+Mandalay Region,0
+Tashkent,0
+Belgrade,0
+Da Nang,0
+Ceara,0
+Hajdú-Bihar,0
+Manisa,0
+Jönköping,0
+Almaty,0
+Lazio,0
+Hesse,0
+Catalonia,0
+Guangdong,0
+Hawke's Bay,0
+Mohafazat Mont-Liban,0
+Tinh Binh Phuoc,0
+Piedmont,0
+Vestfold og Telemark,0
+Sofia,0
+Jelgava,0
+Salta,0
+Lima,0
+Saarland,0
+Provincia de La Vega,0
+Diyarbakir,0
+Selangor,0
+San Luis,0
+La Pampa,0
+Flanders,0
+Rajasthan,0
+Cidade de Maputo,0
+Southern District,0
+Agder,0
+Male,0
+South Karelia Region,0
+Southern Governorate,0
+Region del Biobio,0
+Southern Peninsula,0
+Central Visayas,0
+Pleven,0
+Nonthaburi,0
+Sardinia,0
+Departamento de Bolivar,0
+Trentino-Alto Adige,0
+Federal District,0
+Sarawak,0
+Los Ríos Region,0
+Opole Voivodeship,0
+Johor,0
+Guanajuato,0
+Zealand,0
+Eastern Province,0
+North Brabant,0
+Chiayi,0
+Cordillera,0
+Vorarlberg,0
+Kowloon City,0
+Gouvernorat de Zaghouan,0
+Distrikt Paramaribo,0
+Khomas,0
+Puebla,0
+Santa Fe,0
+Campeche,0
+Oaxaca,0
+Saxony,0
+Krasnodar Krai,0
+Kakheti,0
+Gifu,0
+South Dakota,0
+Yucatán,0
+Tasmania,0
+Tarija Department,0
+Canelones,0
+Red Sea,0
+Värmland County,0
+Geneve,0
+La Libertad,0
+Shaanxi,0
+Jujuy,0
+Western Province,0
+Busan,0
+Provincia del Chimborazo,0
+Ljubljana,0
+Dakar,0
+Grosuplje,0
+Woqooyi Galbeed,0
+Port Said,0
+Principality of Asturias,0
+Bucuresti,0
+Limassol District,0
+Volyn,0
+Ucayali,0
+Formosa,0
+Perak,0
+Harjumaa,0
+Skåne County,0
+Otago,0
+Thurgau,0
+Ptuj,0
+Chiang Mai,0
+Galicia,0
+Antalya,0
+Santa Catarina,0
+Chiayi County,0
+Cluj,0
+Basel-City,0
+Nablus,0
+Basel-Landschaft,0
+Mures,0
+Amazonas,0
+Provincia de Panama,0
+FCT,0
+Piaui,0
+Tocantins,0
+Telangana,0
+Aragon,0
+Zug,0
+Tinh Bac Ninh,0
+Lower Saxony,0
+Cantabria,0
+Morelos,0
+Kanagawa,0
+Coquimbo Region,0
+Szabolcs-Szatmár-Bereg,0
+Santiago del Estero,0
+Beheira,0
+Chongqing,0
+Manipur,0
+Gyeonggi-do,0
+Ajman,0
+Junin,0
+East Java,0
+Al Khor,0
+Land Berlin,0
+Guerrero,0
+Nidwalden,0
+North Sumatra,0
+Corrientes,0
+Mazovia,0
+Haryana,0
+Waikato,0
+Gelderland,0
+Ogun State,0
+Faro,0
+Banska Bystrica,0
+Flacq District,0
+Miyagi,0
+Navarre,0
+Ankara,0
+Viana do Castelo,0
+Obcina Mezica,0
+Maldonado,0
+Misiones,0
+Northern Mindanao,0
+Mestna Obcina Novo mesto,0
+Giza,0
+Abidjan,0
+Obwalden,0
+Zulia,0
+Beyrouth,0
+Nacional,0
+Chubut,0
+Manawatu-Wanganui,0
+Assam,0
+Ulsan,0
+Saskatchewan,0
+Paola,0
+Queretaro de Arteaga,0
+Lubusz,0
+Eastern District,0
+South Sulawesi,0
+Tulcea,0
+Bratislava,0
+Riga,0
+Chon Buri,0
+Ho Chi Minh,0
+Adana,0
+Pomerania,0
+Heredia Province,0
+Republika Srpska,0
+Chiang Rai,0
+Sohag,0
+North-West,0
+Straza,0
+City of Zagreb,0
+South Aegean,0
+Asuncion,0
+Cusco,0
+Departamento de La Libertad,0
+La Rioja,0
+Pembroke Parish,0
+Mato Grosso,0
+Uttar Pradesh,0
+Atacama,0
+Budapest,0
+Hhohho,0
+Alaska,0
+Kamnik,0
+West Kazakhstan,0
+Kingston,0
+Brunei-Muara District,0
+Ticino,0
+Sabah,0
+Rabat-Sale-Kenitra,0
+Bursa,0
+Osjecko-Baranjska Zupanija,0
+Quintana Roo,0
+Al Asimah,0
+Departamento del Alto Parana,0
+Salzburg,0
+Gunma,0
+Madhya Pradesh,0
+Northern,0
+West Java,0
+Muharraq,0
+Southern,0
+Departamento de Cochabamba,0
+Canterbury,0
+Castille and León,0
+Maule Region,0
+Jeju-do,0
+Surat Thani,0
+Departamento de Cuscatlan,0
+Lviv,0
+Penang,0
+Sinaloa,0
+Chaguanas,0
+Moscow,0
+West Greece,0
+Departamento de Itapua,0
+Rheinland-Pfalz,0
+Departamento del Valle del Cauca,0
+Saint Paul Charlestown,0
+Central Region,0
+Burgas,0
+Mombasa,0
+Tuen Mun,0
+Ulaanbaatar Hot,0
+Manama,0
+Liguria,0
+K'alak'i T'bilisi,0
+Vestland,0
+Central District,0
+Dhaka Division,0
+Plovdiv,0
+Primorsko-Goranska Zupanija,0
+Rio de Janeiro,0
+Castille-La Mancha,0
+Tierra del Fuego,0
+West Kalimantan,0
+Birkirkara,0
+Oslo,0
+Para,0
+Tinh Binh GJinh,0
+Korçë County,0
+Tinh Khanh Hoa,0
+Fribourg,0
+Pest megye,0
+Shkodër County,0
+Yunlin,0
+Astana,0
+Campania,0
+Bangkok,0
+Canary Islands,0
+Oran,0
+Gävleborg County,0
+Ruse,0
+Islamabad,0
+Bali,0
+National Capital Territory of Delhi,0
+Subcarpathia,0
+Zadar,0
+Andhra Pradesh,0
+Møre og Romsdal,0
+Jharkhand,0
+Kedah,0
+Crete,0
+Coimbra,0
+Västmanland County,0
+Al-Qassim Region,0
+Pahang,0
+Lower Austria,0
+Provincia de Santo Domingo,0
+Andalusia,0
+Nueva Esparta,0
+Aguascalientes,0
+Gouvernorat de Nabeul,0
+San Juan,0
+Departamento Central,0
+Ōsaka,0
+Alytus,0
+Provincia del Guayas,0
+Saint James,0
+Aichi,0
+Federation of B&H,0
+Provincia de Pichincha,0
+Il-Mosta,0
+Greater Poland,0
+Melaka,0
+Saitama,0
+Gasa,0
+Northern Territory,0
+Terengganu,0
+San Luis Potosí,0
+Sha Tin,0
+Kuala Lumpur,0
+Rogaland,0
+Himachal Pradesh,0
+Apulia,0
+Port of Spain,0
+South Sumatra,0
+North Ostrobothnia,0
+Solothurn,0
+Chandigarh,0
+Muğla,0
+Sharjah,0
+Sichuan,0
+Gwangju,0
+Gujarat,0
+Lisbon,0
+Central Finland,0
+Fujian,0
+Provincia de San Jose,0
+Manitoba,0
+Chiba,0
+Kronoberg County,0
+Baku City,0
+New Providence District,0
+Bihar,0
+Alagoas,0
+Goias,0
+Algiers,0
+Santa Cruz,0
+Northern District,0
+Paysandú Department,0
+Greater Accra Region,0
+Mazowieckie,0
+Departamento del Huila,0
+Appenzell Ausserrhoden,0
+East Kalimantan,0
+Schwyz,0
+Hanoi,0
+Bay of Plenty,0
+Santiago Metropolitan,0
+Nagaland,0
+St.-Petersburg,0
+Phuket,0
+Aydın,0
+Baja California Sur,0
+Braga,0
+Veneto,0
+Klaipėda County,0
+Jiangsu,0
+Mendoza,0
+Il-Gzira,0
+Basque Country,0
+Wyoming,0
+Győr-Moson-Sopron,0
+Daegu,0
+Departamento de Santander,0
+Noord-Holland,0
+Kayseri,0
+Managua Department,0
+Portuguesa,0
+Pernambuco,0
+Departamento de Santa Ana,0
+Rio Negro,0
+Province 1,0
+Catamarca,0
+Tinh GJong Nai,0
+Taoyuan,0
+Neamt,0
+Zarqa,0
+Serravalle,0
+Guanacaste Province,0
+Mpumalanga,0
+Ordu,0
+Nelson,0
+Mississippi,0
+Haifa,0
+Riau,0
+Azores,0
+South Denmark,0
+Tirana,0
+Rizal,0
+Hyōgo,0
+Querétaro,0
+Ionian Islands,0
+Cairo Governorate,0
+Larnaka,0
+Split-Dalmatia,0
+Tainan,0
+Erbil,0
+Kerala,0
+Bar,0
+North Karelia,0
+Eastern Cape,0
+Uppsala County,0
+Zeeland,0
+Carinthia,0
+Birmingham,0
+Incheon,0
+Saint George,0
+Shiga,0
+Flevoland,0
+Amman Governorate,0
+Nuevo León,0
+Manchester,0
+Parish of Saint John,0
+Occitanie,0
+Beijing,0
+Atlántico,0
+L-Imsida,0
+Maharashtra,0
+Punjab,0
+Tokyo,0
+Nairobi,0
+Region de Valparaiso,0
+Extremadura,0
+Chhattisgarh,0
+Grand Est,0
+Epirus,0
+Saint Gallen,0
+Khyber Pakhtunkhwa,0
+Kaohsiung,0
+Miyazaki,0
+Draa-Tafilalet,0
+Provincia de Loja,0
+Upper Austria,0
+Saint Michael,0
+Paraíba,0
+Hualien,0
+Centre-Val de Loire,0
+Seoul,0
+Ismailia Governorate,0
+Cesu Novads,0
+Puntarenas Province,0
+Nova Gorica,0
+Yoro Department,0
+Aceh,0
+Dakahlia,0
+Davao,0
+Vaud,0
+Chihuahua,0
+Neuquen,0
+Overijssel,0
+Appenzell Innerrhoden,0
+Thuringia,0
+Drenthe,0
+West Virginia,0
+West Bengal,0
+Kyoto,0
+Siparia,0
+Friuli Venezia Giulia,0
+Rio Grande do Norte,0
+Entre Rios,0
+Wolverhampton,0
+New Brunswick,0
+Durango,0
+Lampung,0
+Lesser Poland,0
+Nagano,0
+Gharbia,0
+Kralovehradecky kraj,0
+Provincia de Manabi,0
+Homyel’ Voblasc’,0
+Corsica,0
+Yalova,0
+Espirito Santo,0
+Bogota D.C.,0
+Changhua,0
+Delaware,0
+Samut Prakan,0
+Ancash,0
+Provincia del Tungurahua,0
+Cordoba,0
+Tripoli,0
+Goa,0
+Hokkaido,0
+Provincia Duarte,0
+Saint Thomas Island,0
+Central Jutland,0
+Phnom Penh,0
+Wallonia,0
+Monufia,0
+Tây Ninh Province,0
+Medina Region,0
+Leiria,0
+Al-Shahaniya,0
+Aswan,0
+Şırnak,0
+Tanger-Tetouan-Al Hoceima,0
+Region Metropolitana,0
+Kaafu Atoll,0
+Groningen,0
+Shanghai,0
+Friesland,0
+Umbria,0
+Viken,0
+Nakhon Ratchasima,0
+Qena,0
+Karlovac,0
+Tunapuna/Piarco,0
+Izmir,0
+Maseru,0
+Gaziantep,0
+Nuevo Leon,0
+Pafos,0
+Central Luzon,0
+Yogyakarta,0
+Sergipe,0
+Manzini,0
+Paijat-Hame Region,0
+Newfoundland and Labrador,0
+Östergötland County,0
+Masqat,0
+Minas Gerais,0
+Departamento del Magdalena,0
+Tamaulipas,0
+Sharqia,0
+Acre,0
+Tamil Nadu,0
+Hauts-de-France,0
+Istria,0
+Västerbotten County,0
+Okinawa,0
+Sofia-Capital,0
+Troms og Finnmark,0
